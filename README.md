@@ -4,7 +4,7 @@
 
 视频原地址：https://www.youtube.com/watch?v=GWE9ay9H7uU
 
-B站地址：
+B站地址：https://www.bilibili.com/video/av84063557/
 
 页面截图：
 ![Image text](https://github.com/zhangliqiang34/CardsSection/blob/master/images/%E9%A2%84%E8%A7%88.png)
