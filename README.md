@@ -2,7 +2,7 @@
 
 由于他们是收费的，没有贴出代码，所以我自己看视频敲了一遍。
 
-视频原地址：
+视频原地址：https://www.youtube.com/watch?v=GWE9ay9H7uU
 
 B站地址：
 
